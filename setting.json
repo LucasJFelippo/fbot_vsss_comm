@@ -1,0 +1,12 @@
+{
+    "address": {
+        "visionAddress": "224.0.0.1",
+        "visionPort": 10002,
+        "refereeAddress": "224.5.23.2",
+        "refereePort": 10003,
+        "firaReceiveAddress": "224.0.0.1",
+        "firaReceivePort": 10002,
+        "firaSendAddress": "127.0.0.1",
+        "firaSendPort": 20011
+    }
+}
