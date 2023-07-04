@@ -1,0 +1,21 @@
+[build-system]
+requires = ["hatchling", "protobuf"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fbot_vsss_comm"
+version = "1.0.0"
+authors = [
+  { name="Lucas de Felippe", email="lucasjfelippo@gmail.com" },
+]
+description = "Package with the communication between SSL-Vision, Referee and FIRAsim"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/lucasdefelippe/fbot_vsss_comm"
