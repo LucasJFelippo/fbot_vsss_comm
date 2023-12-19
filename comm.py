@@ -73,8 +73,3 @@ class Communication():
             return frame.robots_yellow[id]
         else:
             return frame.robots_blue[id]
-
-
-
-comm = Communication()
-print(comm.robot(2, True))
